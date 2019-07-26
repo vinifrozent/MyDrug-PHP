@@ -1,0 +1,15 @@
+Site desenvolvido com o intuito de criar uma Farmácia Online e treinar as habilidades em PHP.
+CRUD simples usando a linguagem PHP.
+
+Desenvolvido em PHP
+
+Para o site funcionar, é necessário ter em sua máquina o Programa Xampp ou Wampp instalados.
+
+No diretório SQL, irá ser encontrado o arquivo banco de dados "MyDrug 24.11.sql". 
+É necessário importar este banco de dados no SGBD MySQL.
+
+O nome da database criada deverá ser mydrug.
+Para acessar o banco, deve inserir o seguinte login:
+-Login/user: root
+
+Não possui senha.
