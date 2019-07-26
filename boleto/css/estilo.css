@@ -1,0 +1,131 @@
+body
+{
+	padding:1px;
+	margin:0px;
+	
+}
+#logo
+{
+	width:195px;
+	height:120px;
+	float:left;
+	background-color: #ffffff;
+	border: 0px solid #000000;
+		
+}
+#logo img{
+	max-height:120px;
+	max-width:395px;
+	height: auto;
+	width: auto;
+}
+#corpo
+{
+	padding: 1px;
+	
+	height: auto;
+	width: auto
+}	
+#item_carrinho
+{
+	border:0px solid #000000;
+   width:450px;
+   height:90px;   
+   float:right;
+   margin-top:10px;
+   color: #000000;
+   font-family: verdana;
+   font-size: 12pt;
+}
+td{
+width: 400px
+}
+#topo
+{
+    width:100%;
+	height:120px;
+	background-color: white;
+}
+#menu
+{
+	width:100%;
+	height: 40px;
+	background-color: #000000;
+	border: 1px solid #000000;
+}
+
+#conteudo
+{
+	width:80%;
+	height: 500px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border:0px solid #ff0000;
+}
+#corpo_esq
+{
+border: 1px solid: #000000;
+width: 80%;
+height: 500px;
+}
+.produto
+{
+	float:left;
+	width:250px;
+	min-height:400px;
+	height:auto;
+	border: 1px solid #000000;
+	border-radius:5px;
+	margin-left:20px;
+	margin-top:20px;
+	text-align:center;
+	font-family: verdana;
+	
+	padding: 1px;
+}
+.img_produto
+{
+	width:220px;
+	height:200px;
+	margin-top:10px;
+}
+#container
+{
+	width:80%;
+	height: 500px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	
+}
+#logado
+{
+	
+}
+#area
+{
+	padding: 1px;
+}
+
+}
+#nome
+{
+	width: auto;
+	padding: 5px;
+}
+#compra 
+{
+	padding: 50px;
+}
+form {
+width: 500px;
+background: #ccc;
+margin: 100px;
+padding: 10px;
+}
+input{
+ border-radius: 5px;
+}
