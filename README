@@ -5,6 +5,13 @@ Desenvolvido em PHP
 
 Para o site funcionar, é necessário ter em sua máquina o Programa Xampp ou Wampp instalados.
 
+No diretório "www" onde o Xampp/Wampp foi instalado, deve-se colocar este repositório para o funfionamento do mesmo.
+Após isso apenas digite na URL "localhost/mydrug".
+Os diretórios HomeCare, Admin e Farmacia fazem parte da farmacia online. Nestes repositórios se encontram páginas responsáveis pelas
+administração da página principal da farmácia online MyDrug. Esses diretórios citados também devem ser colados no diretório "www"
+do Xampp/Wampp.
+Para acessar essas páginas digite "localhost/'nome-do-diretório'"
+
 No diretório SQL, irá ser encontrado o arquivo banco de dados "MyDrug 24.11.sql". 
 É necessário importar este banco de dados no SGBD MySQL.
 
